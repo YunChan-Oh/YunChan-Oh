@@ -26,5 +26,10 @@
   ![J1W0N's github stats](https://github-readme-stats.vercel.app/api?username=YunChan-Oh&show_icons=true)
 
 </div>
+<div align="center">
+  
+  <h1 align="center"> 🏆 Awards 🏆</h1>
+    <p><strong>2021 삼성 주니어 SW 창작 대회 Finalist</strong></p>
+    <p><strong>2022 삼성 주니어 SW 창작 대회 Finalist</strong></p>
 
 </div>
