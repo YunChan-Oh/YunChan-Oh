@@ -14,11 +14,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-  #181717
 </p>
 
 
-<h1 align="center">🌹 Me 🌹</h1>
+<h1 align="center">⭐ Me ⭐</h1>
 <p align="center">
   <a href="https://www.instagram.com/%22%3E<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white%22/%3E</a>
   <a href="https://j1w0n-071209.tistory.com/%22%3E<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white%22/%3E</a>
