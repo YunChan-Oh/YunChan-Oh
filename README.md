@@ -25,7 +25,7 @@
 
 <div align="center"> 
 
-  ![J1W0N's github stats](https://github-readme-stats.vercel.app/api?username=YunChan-Oh&show_icons=true)
+  ![Yun-Chan's github stats](https://github-readme-stats.vercel.app/api?username=YunChan-Oh&show_icons=true)
 
 </div>
 <div align="center">
