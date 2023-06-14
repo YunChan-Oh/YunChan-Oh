@@ -33,3 +33,6 @@
     <p><strong>2022 삼성 주니어 SW 창작 대회 Finalist</strong></p>
 
 </div>
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
