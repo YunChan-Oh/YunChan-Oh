@@ -23,7 +23,7 @@
 
 <div align="center"> 
 
-  ![Yun-Chan's github stats](https://github-readme-stats.vercel.app/api?username=YunChan-Oh&show_icons=true)
+  ![Yun-Chan's github stats](https://github-readme-stats.vercel.app/api?username=YunChan-Oh&show_icons=true&theme=midnight-purple)
 
 </div>
 <div align="center">
@@ -34,5 +34,5 @@
 
 </div>
 
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+#
+![](./profile-3d-contrib/profile-night-rainbow.svg)
