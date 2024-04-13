@@ -28,15 +28,7 @@
 </div>
 <div align="center">
   
-  <h1 align="center"> 🏆 Awards 🏆</h1>
-    <p><strong>2021 삼성 주니어 SW 창작 대회 Finalist</strong></p>
-    <p><strong>2022 삼성 주니어 SW 창작 대회 Finalist</strong></p>
-
+  <h1 align="center"> ★ <a href="https://noiseless-scowl-875.notion.site/7d6084ace7e44b69ac52cf58923df384">PortFolio</a> ★</h1>
+  
 </div>
 
-#
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-![](./profile-3d-contrib/profile-gitblock.svg)
